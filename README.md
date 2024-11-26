@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JustSadY!
+# 👋 Hi, I'm Bünyamin(JustSadY)!
 
 ## 👩‍💻 About Me:
 - 🎓 I'm a student at **Nişantaşı University**.
