@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me:
 - 🎓 I'm a student at **Nişantaşı University**.
-- 💻 I have experience with programming languages like **Python**, **C#**, **HTML**, **CSS**, and **PHP**.
+- 💻 I have experience with programming languages like **Python**, **C#**, **HTML**, **CSS**, **JavaScript** and **PHP**.
 - 🚀 I'm eager to learn new technologies and contribute to open-source projects.
 
 ## 🌟 Interests:
@@ -10,7 +10,7 @@
 - 🧠 Artificial Intelligence & Machine Learning
 - 🎮 Game Development
 - 💻 Software Engineering
-- - 🌐 Web Development (Frontend & Backend)
+- 🌐 Web Development (Frontend & Backend)
 
 ## 🛠️ My Skills:
 - **Frontend:** HTML, CSS  
