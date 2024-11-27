@@ -6,15 +6,17 @@
 - 🚀 I'm eager to learn new technologies and contribute to open-source projects.
 
 ## 🌟 Interests:
-- 🌐 Web Development (Frontend & Backend)
+- 🔐 Cyber Security 
 - 🧠 Artificial Intelligence & Machine Learning
 - 🎮 Game Development
 - 💻 Software Engineering
+- - 🌐 Web Development (Frontend & Backend)
 
 ## 🛠️ My Skills:
 - **Frontend:** HTML, CSS  
 - **Backend:** PHP, Python  
-- **Game Development:** Unity (C#)  
+- **Game Development:** Unity (C#)
+- **Mobile Development** React Native (JavaScript)
 - **Other:** Data Analysis and Automation  
 
 ## 📫 How to Reach Me:
