@@ -1,9 +1,10 @@
-# 👋 Hi, I'm Bünyamin(JustSadY)!
+# 👋 Hi, I'm Bünyamin (JustSadY)!
 
 ## 👩‍💻 About Me:
 - 🎓 I'm a student at **Nişantaşı University**.
 - 💻 I have experience with programming languages like **Python**, **C#**, **HTML**, **CSS**, **JavaScript** and **PHP**.
 - 🚀 I'm eager to learn new technologies and contribute to open-source projects.
+- 🎮 I also have past experience designing game cheats.
 
 ## 🌟 Interests:
 - 🔐 Cyber Security 
