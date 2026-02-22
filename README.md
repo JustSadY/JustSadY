@@ -1,11 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bünyamin%20Alçin&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Designer%20%26%20Developer%20%7C%20Unity%20%26%20Unreal%20Engine&descAlignY=55&descSize=16"/>
-
-<br/>
-
-<img src="https://cv.justsady.uk/MyPhoto.png" width="130" style="border-radius: 50%;" alt="Bünyamin Alçin"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🎮+Unreal+Engine+%7C+C%2B%2B+Game+Developer;⚔️+Combat+Systems+%7C+GAS+%7C+Behavior+Trees;🕹️+Unity+%7C+C%23+%7C+2D+%26+3D+Games;🌍+Open+World+Mechanics+%7C+Character+Systems;🚀+Always+Shipping+Something+New...)](https://git.io/typing-svg)
 
 <br/>
@@ -82,32 +76,6 @@ public:
 
 ---
 
-## 🕹️ Active Projects
-
-### ⚔️ Action Game
-> *Unreal Engine · C++ · Action*
-
-C++ ile geliştirilen aksiyon odaklı oyun projesi. Dinamik dövüş mekanikleri içermektedir.
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active%20🟢-brightgreen?style=flat-square)
-
----
-
-## 📦 Past Projects
-
-### 🎭 Persona-Style RPG
-> *Unreal Engine · Blueprint · RPG*
-
-Persona serisinden ilham alan sıra tabanlı RPG oyunu.
-
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat-square&logo=unrealengine&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Blueprint-0078D4?style=flat-square&logo=unrealengine&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Paused%20🟡-yellow?style=flat-square)
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -147,9 +115,6 @@ Persona serisinden ilham alan sıra tabanlı RPG oyunu.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustSadY&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustSadY&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustSadY&theme=tokyonight&hide_border=true&background=0D1117"/>
@@ -158,15 +123,6 @@ Persona serisinden ilham alan sıra tabanlı RPG oyunu.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JustSadY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
