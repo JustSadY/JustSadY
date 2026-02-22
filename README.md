@@ -39,43 +39,6 @@ public:
 
 ---
 
-## 🎮 Game Development Skills
-
-<div align="center">
-
-| Engine / Language | Proficiency |
-|---|---|
-| **C#** | `█████████░` **95%** |
-| **Unreal Engine** | `█████████░` **90%** |
-| **C++** | `█████████░` **90%** |
-| **Unity** | `████████░░` **80%** |
-| **Python** | `████████░░` **80%** |
-| **React Native** | `███░░░░░░░` **30%** |
-
-</div>
-
----
-
-## ⚔️ Unreal Engine Expertise
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                   UNREAL ENGINE  (C++)                      │
-├──────────────────────┬──────────────────────────────────────┤
-│  🧠 AI Systems       │  Behavior Trees · AI Perception      │
-│  ⚔️  Combat          │  GAS · Modular Combat Systems         │
-│  🏗️  Architecture    │  Blueprint vs C++ · Data Assets       │
-│  🌍 World Design     │  Open World · Streaming · Landscapes  │
-│  📊 Performance      │  Profiling · LOD · Memory Opt.        │
-└──────────────────────┴──────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -102,41 +65,7 @@ public:
 
 ---
 
-## 🎓 Education
-
-| Period | Institution | Department |
-|--------|-------------|------------|
-| 2024 – Present | **Nişantaşı University** | Digital Game Design |
-| 2023 – 2024 | Topkapı University | Digital Game Design |
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JustSadY&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JustSadY&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 **🎮 Game Designer & Developer — [cv.justsady.uk](https://cv.justsady.uk)**
 
