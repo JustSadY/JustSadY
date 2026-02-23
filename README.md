@@ -9,10 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustSadY)
 [![Portfolio](https://img.shields.io/badge/CV%20%2F%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cv.justsady.uk)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=JustSadY&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
