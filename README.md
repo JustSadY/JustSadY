@@ -22,7 +22,6 @@ public:
     FString Name     = "Bünyamin Alçin";
     FString Alias    = "JustSadY";
     FString School   = "Nişantaşı University — Digital Game Design";
-    FString Location = "Istanbul, Turkey 🇹🇷";
     FString Site     = "https://cv.justsady.uk";
 
     TArray<FString> Engines  = { "Unreal Engine (C++)", "Unity (C#)" };
